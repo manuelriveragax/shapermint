@@ -1,0 +1,10 @@
+{
+    "chromeWebSecurity": false,
+    "pageLoadTimeout": 2000000,
+    "baseUrl": "https://shapermint.com/",
+    "env": {
+        "customerName" : "Manuel Alberto Rivera Gaxiola",
+        "username": "manuelriveragax@gmail.com",
+        "password": "TestTrafilea11!"
+    }
+}
